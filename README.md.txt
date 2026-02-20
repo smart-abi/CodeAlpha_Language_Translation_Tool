@@ -23,4 +23,5 @@ An interactive **Language Translation Tool** built with **Python** and **Streaml
 
 1️⃣ **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/language-translation-tool.git
+git clone https://github.com/smart-abi/language-translation-tool.git
+
